@@ -4,4 +4,4 @@ target/
 .settings/
 .idea/
 *.iml
-.DS_Store
+.DS_Storesrc/main/resources/application.properties
